@@ -1,2 +1,2 @@
-# Coursera-Machine-Learning-Specialization-University-of-Washington
-Code related to the Coursera's Machine Learning Specialization - University of Washington
+# Coursera Machine Learning Specialization - University of Washington
+Python code related to the assignments of the Coursera's Machine Learning Specialization - University of Washington
